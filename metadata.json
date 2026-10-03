@@ -1,0 +1,6 @@
+{
+  "name": "Periodic Table Explorer",
+  "description": "Comprehensive interactive periodic table with complete scientific data fields, 3D Bohr models, electron configurations, element comparison, and molar mass calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
